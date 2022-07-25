@@ -1,0 +1,14 @@
+{
+  "name": "hexo-mrzefr-filebed",
+  "version": "1.3.4",
+  "description": "MrZeFr-Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file"
+  ],
+  "author": "MrZeFr",
+  "license": "ISC"
+}
