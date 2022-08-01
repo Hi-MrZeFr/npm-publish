@@ -1,6 +1,6 @@
 {
   "name": "hexo-mrzefr-filebed",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "MrZeFr-Blog",
   "main": "index.js",
   "scripts": {
